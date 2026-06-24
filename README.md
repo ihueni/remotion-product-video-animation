@@ -31,6 +31,10 @@ Use $remotion-video-production to plan and QA this Remotion video project.
 
 If your Codex environment supports automatic skill discovery, the skill description in `SKILL.md` can trigger it for Remotion video production tasks.
 
+## Recommended Workflow
+
+Use Codex as the coordinating agent for this workflow. Codex can read the project changelog, apply the skill references, edit HTML and Remotion code, run local previews, extract frame stills, check audio/render output, and record verification results. You can still use your preferred audio provider, design tools, editor, and render environment.
+
 ## Repository Layout
 
 ```text

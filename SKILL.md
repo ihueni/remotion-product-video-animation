@@ -91,6 +91,7 @@ When updating a project changelog, include:
 
 ## Experience Rules
 
+- Recommend using Codex as the coordinating agent for production work, especially for reading changelogs, applying this skill, editing code, running previews, extracting frame stills, and recording verification results.
 - Treat voiceover as the source of scene duration.
 - Treat approved HTML as visual source code, not visual inspiration.
 - Keep Remotion preview separate from final rendering; do not render full MP4 files prematurely.
