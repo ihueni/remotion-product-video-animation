@@ -20,7 +20,7 @@ Clone this repository into your Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/<your-org-or-user>/remotion-video-production.git ~/.codex/skills/remotion-video-production
+git clone https://github.com/ihueni/remotion-video-production.git ~/.codex/skills/remotion-video-production
 ```
 
 Then invoke it explicitly:
