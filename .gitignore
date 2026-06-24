@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+
+# Local editor and runtime files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local test artifacts
+tmp/
+temp/
+output/
+debug/
+
+# Environment files
+.env
+.env.*
