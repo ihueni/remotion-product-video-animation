@@ -52,8 +52,6 @@ remotion-product-video-animation/
     └── workflow.md
 ```
 
-`SKILL.md` 保持精简，只做触发、路由和核心约束；详细规则放在 `references/`，由 Codex 按任务类型读取。
-
 ## 音频和 BGM
 
 本 Skill 不强制要求某个 TTS、配音、BGM 或音乐生成工具。
@@ -65,13 +63,6 @@ remotion-product-video-animation/
 - 批量或自动化制作：优先选择支持 API、有足够 credits、商业授权清晰的付费方案。
 
 如果需要 AI 生成 BGM，本 Skill 会指导你根据脚本和分镜提炼音乐提示词，而不是指定某个音乐生成平台。
-
-## 发布前检查
-
-1. `SKILL.md` 保持简洁，详细规则放入 `references/`。
-2. 不写入公司、产品、客户、内部路径或隐私数据。
-3. 确认 `SKILL.md` 链接到的 reference 文件都存在。
-4. 确认 frontmatter 只包含 `name` 和 `description`。
 
 ## License
 
