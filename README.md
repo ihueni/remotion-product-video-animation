@@ -58,8 +58,8 @@ remotion-product-video-animation/
 
 当用户没有现成供应商时，默认建议：
 
-- 中文旁白：Fish Audio。
-- 英文旁白：ElevenLabs。
+- 中文旁白：Fish Audio，优先使用支持 API 的工作流。
+- 英文旁白：ElevenLabs，优先使用支持 API 的工作流。
 - 批量或自动化制作：优先选择支持 API、有足够 credits、商业授权清晰的付费方案。
 
 如果需要 AI 生成 BGM，本 Skill 会指导你根据脚本和分镜提炼音乐提示词，而不是指定某个音乐生成平台。
@@ -113,8 +113,8 @@ This skill does not require a specific TTS, voice, BGM, or music generation prov
 
 Suggested defaults when the user has no existing provider:
 
-- Chinese narration: Fish Audio.
-- English narration: ElevenLabs.
+- Chinese narration: Fish Audio, preferably through an API-capable workflow.
+- English narration: ElevenLabs, preferably through an API-capable workflow.
 - Repeated production: choose a paid plan with API access, sufficient credits, and appropriate commercial-use terms.
 
 For AI-generated BGM, the skill teaches how to derive a music prompt from the script and scene plan rather than naming a specific music generation service.

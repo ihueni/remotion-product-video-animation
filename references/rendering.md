@@ -15,8 +15,8 @@ Default recommendations, when the user has no existing provider:
 
 | Need | Suggested starting point | Reason |
 |------|--------------------------|--------|
-| Chinese narration | Fish Audio | Often a strong default for Mandarin / Chinese narration workflows. |
-| English narration | ElevenLabs | Often a strong default for English narration workflows. |
+| Chinese narration | Fish Audio, preferably through an API-capable workflow | Often a strong default for Mandarin / Chinese narration, and API usage makes repeated generation easier to reproduce. |
+| English narration | ElevenLabs, preferably through an API-capable workflow | Often a strong default for English narration, and API usage makes repeated generation easier to reproduce. |
 | Repeated or automated production | A paid plan with API access, sufficient credits, and commercial-use terms | API access makes regeneration, batching, retries, and version control much easier than manual web exports. |
 
 Before recommending a purchase, ask whether the user already has a membership, team plan, API key, or required vendor. Pricing, quotas, commercial-use terms, and API availability change over time, so check the provider's current official plan page before making budget-sensitive advice.
