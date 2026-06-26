@@ -1,4 +1,4 @@
 interface:
-  display_name: "Remotion Video Production"
-  short_description: "Build and QA Remotion video projects."
-  default_prompt: "Use $remotion-video-production to plan, build, localize, preview, render, and QA a Remotion video project."
+  display_name: "Product Video Animation With Remotion"
+  short_description: "Build product video animations with Remotion."
+  default_prompt: "Use $remotion-product-video-animation to plan, build, localize, preview, render, and QA a product video animation with Remotion."

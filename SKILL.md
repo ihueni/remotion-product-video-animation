@@ -1,13 +1,13 @@
 ---
-name: remotion-video-production
-description: Create, modify, localize, preview, render, and QA narration-driven videos built with Remotion, HTML storyboards, audio tracks, frame-driven animation, screenshots, SVG paths, and final MP4 delivery. Use when working on video scripts, scene timing, HTML-to-Remotion conversion, animation QA, multilingual versions, audio/BGM mixing, rendering quality, or video production troubleshooting.
+name: remotion-product-video-animation
+description: Create, modify, localize, preview, render, and QA product video animations built with Remotion, HTML storyboards, audio tracks, frame-driven UI animation, screenshots, SVG paths, and final MP4 delivery. Use when working on product demo videos, feature explainers, product UI animations, video scripts, scene timing, HTML-to-Remotion conversion, animation QA, multilingual versions, audio/BGM mixing, rendering quality, or video troubleshooting.
 ---
 
-# Remotion Video Production
+# Product Video Animation With Remotion
 
 ## Identity
 
-This skill guides AI agents that build or maintain narration-driven Remotion videos from scripts, audio, HTML storyboards, frame-driven animation, and final MP4 delivery. It focuses on repeatable production workflow, visual-source fidelity, preview discipline, and QA gates.
+This skill guides AI agents that build or maintain product video animations with Remotion, scripts, audio, HTML storyboards, frame-driven UI animation, and final MP4 delivery. It focuses on repeatable production workflow, visual-source fidelity, preview discipline, and QA gates.
 
 ## Capabilities
 
@@ -103,7 +103,7 @@ When updating a project changelog, include:
 
 ### Coverage Tests
 
-- Ask the skill to plan a new 6-scene narrated Remotion video and verify it routes to `workflow.md`.
+- Ask the skill to plan a new 6-scene narrated product video animation and verify it routes to `workflow.md`.
 - Ask it to convert an approved HTML scene into Remotion and verify it routes to `html-remotion.md`.
 - Ask it to fix a path that appears too early and verify it routes to `animation-qa.md`.
 - Ask it to prepare final export commands and verify it routes to `rendering.md`.

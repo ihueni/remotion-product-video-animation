@@ -1,8 +1,8 @@
-# Remotion Video Production Skill
+# 产品视频动画 Remotion 制作 Skill
 
-一个用于 Remotion 视频制作的 Codex Skill，覆盖脚本规划、HTML 分镜、Remotion 转译、多语言版本、预览验收、音频处理、最终渲染和交付 QA。
+一个面向产品视频动画制作的 Codex Skill，覆盖脚本规划、HTML 分镜、Remotion 转译、多语言版本、预览验收、音频处理、最终渲染和交付 QA。
 
-这个 Skill 适合制作“旁白驱动”的产品视频、技术解释视频、功能演示视频和 UI 动效视频。它不绑定任何公司、产品、音频供应商或设计系统；你可以使用自己的品牌素材、音频工具、视觉规范和渲染环境。
+这个 Skill 适合制作“旁白驱动”的产品演示视频、产品 UI 动画、功能解释视频和技术型产品动画。它不绑定任何公司、产品、音频供应商或设计系统；你可以使用自己的品牌素材、音频工具、视觉规范和渲染环境。
 
 ## 能帮你做什么
 
@@ -20,13 +20,13 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/ihueni/remotion-video-production.git ~/.codex/skills/remotion-video-production
+git clone https://github.com/ihueni/remotion-product-video-animation.git ~/.codex/skills/remotion-product-video-animation
 ```
 
 显式调用：
 
 ```text
-Use $remotion-video-production to plan and QA this Remotion video project.
+Use $remotion-product-video-animation to plan and QA this product video animation with Remotion.
 ```
 
 如果你的 Codex 环境支持自动发现 Skill，`SKILL.md` 里的描述也可以在相关任务中自动触发。
@@ -40,7 +40,7 @@ Use $remotion-video-production to plan and QA this Remotion video project.
 ## 目录结构
 
 ```text
-remotion-video-production/
+remotion-product-video-animation/
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
@@ -81,9 +81,9 @@ MIT
 
 ## English
 
-A Codex Skill for planning, building, localizing, previewing, rendering, and QA-ing narration-driven Remotion video projects.
+A Codex Skill for planning, building, localizing, previewing, rendering, and QA-ing product video animations made with Remotion.
 
-This skill is designed for product videos, technical explainers, feature demos, and UI animation videos built from scripts, voiceover, HTML storyboards, frame-driven animation, screenshots, SVG paths, BGM, and final MP4 delivery. It is product-neutral and company-neutral: bring your own brand assets, audio provider, visual system, and project conventions.
+This skill is designed for product demo videos, product UI animations, technical feature explainers, and narration-driven product video animations built from scripts, voiceover, HTML storyboards, frame-driven animation, screenshots, SVG paths, BGM, and final MP4 delivery. It is product-neutral and company-neutral: bring your own brand assets, audio provider, visual system, and project conventions.
 
 ### What It Helps With
 
@@ -101,13 +101,13 @@ Clone this repository into your Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/ihueni/remotion-video-production.git ~/.codex/skills/remotion-video-production
+git clone https://github.com/ihueni/remotion-product-video-animation.git ~/.codex/skills/remotion-product-video-animation
 ```
 
 Invoke it explicitly:
 
 ```text
-Use $remotion-video-production to plan and QA this Remotion video project.
+Use $remotion-product-video-animation to plan and QA this product video animation with Remotion.
 ```
 
 ### Recommended Workflow
